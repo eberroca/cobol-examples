@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: Eduardo Berrocal -- https://eduberrocal.net
       * Date: 04/29/2020
-      * Purpose: Simple 'Hello World' in order to lear COBOL
+      * Purpose: Simple 'Hello World' in order to learn COBOL
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
