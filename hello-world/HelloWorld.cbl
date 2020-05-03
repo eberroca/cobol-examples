@@ -11,6 +11,6 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-            DISPLAY "Hello world, Eduardo"
-            STOP RUN.
+           DISPLAY "Hello world, Eduardo"
+           STOP RUN.
        END PROGRAM HELLO-WORLD.
