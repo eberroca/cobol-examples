@@ -6,15 +6,18 @@
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. SUM-INTEGERS.
+
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER.
            Intel-NUC WITH DEBUGGING MODE.
+
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01  n BINARY-LONG.
        01  i BINARY-LONG.
        01  t BINARY-LONG VALUE 0.
+
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
            DISPLAY "Enter a positive integer"
